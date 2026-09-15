@@ -8,7 +8,7 @@ A robust Spring Boot RESTful API designed to manage and track inventory items ef
 - **Error Handling**: Comprehensive custom exceptions and a global exception handler for stable responses.
 
 ## Tech Stack
-- **Java 17+**
+- **Java 21**
 - **Spring Boot**
 - **Spring Data JPA / H2 Database**
 - **Maven**
